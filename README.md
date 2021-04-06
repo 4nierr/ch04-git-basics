@@ -6,7 +6,7 @@ Exercises for [chapter 4](https://faculty.washington.edu/otoomet/info201-book/gi
 * Ex 2: add files (image)
 * Ex 3: play with branches
 
-##Breakfast
+## Breakfast
 
 1. Coffee
 2. Waffles and Syrup
