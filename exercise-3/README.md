@@ -8,7 +8,14 @@ merge the changes back to the others.
    b) complete -- a version with solutions.
    
    list all the versions using _git_ and it's command line options.
+   
+* master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/complete
+  remotes/origin/master
+
 
 2. Modify this readme file by writing the git commands to find out
    branches (both local and remote) of the current repo!
 
+git branch -a
