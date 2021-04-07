@@ -10,3 +10,9 @@ Exercises for [chapter 4](https://faculty.washington.edu/otoomet/info201-book/gi
 
 1. Coffee
 2. Waffles and Syrup
+
+## Funny image :D
+
+![This image is funny](exercise-2/Unknown.jpeg)
+
+I found this image on google, it was the first image that popped up when I typed in "funny image". Its a weird looking dog in a lobster costume. I don't know if its funny but whatever.
